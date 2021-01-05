@@ -34,7 +34,7 @@ const originalFlavors = [
     "Vanilla",
     "Vanilla Burnt Almond"
 ]
-
+console.log(originalFlavors);
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 1: Copy the Array! 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 We have an array called originalFlavors with 31 flavors (see above).  In these tasks, we will be reading and writing data to this array.  
